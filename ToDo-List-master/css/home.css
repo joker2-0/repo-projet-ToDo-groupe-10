@@ -36,10 +36,10 @@ a i {
   margin: 0;
 }
 input[type="text"] {
-  margin: 0;
+  margin: 50 px;
   width: 100%;
-  padding: 15px;
-  border: 4px solid rgba(0, 0, 0, 0);
+  padding: 20px;
+  border: 4px solid rgba(10, 5, 20, 5);
   margin-bottom: 5px;
 }
 .board-item {
