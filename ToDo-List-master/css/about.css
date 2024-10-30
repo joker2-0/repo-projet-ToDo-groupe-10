@@ -10,7 +10,7 @@ body {
   background: url(../img/bg.png);
 }
 .navbar-default {
-  background-color: #ecf0f1;
+  background-color: green;
 }
 a i {
   color: #2c3e50;
