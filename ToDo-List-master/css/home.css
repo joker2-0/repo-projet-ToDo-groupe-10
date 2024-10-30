@@ -7,7 +7,15 @@ body {
   margin: 0px;
   padding: 0px;
   font-family: "Roboto", sans-serif;
+<<<<<<< HEAD
   background: url(../img/bg.png);
+=======
+<<<<<<< HEAD
+  background-color: aquamarine;
+=======
+  background-color: black;
+>>>>>>> 2d01d17fc6454266e8af4e222061b48d0040e224
+>>>>>>> kamguen
 }
 .navbar-default {
   background-color: #ecf0f1;
@@ -17,7 +25,11 @@ a i {
   padding-right: 15px;
 }
 .navbar-brand {
+<<<<<<< HEAD
   font-family: cursive;
+=======
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+>>>>>>> kamguen
 }
 
 .new-board {

@@ -10,7 +10,11 @@ body {
   background: url(../img/bg.png);
 }
 .navbar-default {
+<<<<<<< HEAD
   background-color: #ecf0f1;
+=======
+  background-color: green;
+>>>>>>> kamguen
 }
 a i {
   color: #2c3e50;
